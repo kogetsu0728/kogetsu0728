@@ -1,4 +1,4 @@
-## Profile
+### Hi there 👋
 [![ku_senjan](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fku_senjan)](https://atcoder.jp/users/ku_senjan)
 [![ku_senjan](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fku_senjan)](https://codeforces.com/profile/ku_senjan) <br>
 
