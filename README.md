@@ -1,10 +1,15 @@
-Profile: [kogetsu0728.github.io](https://kogetsu0728.github.io/)<br>
+<div align="center">
 
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fku_senjan)](https://atcoder.jp/users/ku_senjan)
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fku_senjan)](https://codeforces.com/profile/ku_senjan)<br>
+Portfolio: [https://kogetsu0728.github.io/](https://kogetsu0728.github.io/)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kogetsu0728&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kogetsu0728&utcOffset=9&theme=nord_bright)<br>
+<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kogetsu0728&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kogetsu0728&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kogetsu0728&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kogetsu0728&utcOffset=9&theme=nord_dark)
+
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kogetsu0728&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kogetsu0728&theme=nord_dark)
+
+</div>
